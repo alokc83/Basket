@@ -12,4 +12,4 @@ An Open Source Grocery Shopping App. Designed in Atlanta, GA with Swift 3.0
 
 ### This Sketch App resource can be used as base templated. 
 ![screen](https://www.sketchappsources.com/resources/source-image/flavr-recipes-app-ios-ui-kit.jpg)
-![Recipe App](https://www.sketchappsources.com/free-source/2563-flavr-recipes-app-ios-ui-kit-sketch-freebie-resource.html)
+https://www.sketchappsources.com/free-source/2563-flavr-recipes-app-ios-ui-kit-sketch-freebie-resource.html
