@@ -15,8 +15,8 @@ https://www.gieson.com : For creating awesome project called Icon Slayer. Made i
 
 ### Main Screen
 ![Main screen]
-<img src="https://github.com/alokc83/BasketApp/blob/development/MockScreens/MainScreen.png" width="500"/>
+<img src="https://github.com/alokc83/BasketApp/blob/development/MockScreens/MainScreen.png" width="200"/>
 
 ### Menu (when menu button tapped)
 ![Menu when menu button tapped]
-<img src="https://github.com/alokc83/BasketApp/blob/development/MockScreens/MenuButtonTapped.png" width="500"/>
+<img src="https://github.com/alokc83/BasketApp/blob/development/MockScreens/MenuButtonTapped.png" width="200"/>
