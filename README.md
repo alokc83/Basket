@@ -1,7 +1,7 @@
 # Basket App 
 ![logo](https://github.com/alokc83/BasketApp/blob/development/GraphicAssets/AppIConCandidates/basket3/sizes/basket3-120.png)
 
-An Open Source Grocery Shopping App. Designed in Atlanta, GA with Swift 3.0
+An Open Source Grocery Shopping App. Being Designed in Austin, TX with Swift 3.0
 
 ## Proposed UI Of App 
 ### This Sketch App resource can be used as base templated. 
